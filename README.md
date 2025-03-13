@@ -78,7 +78,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## Author
 
-[Your Name]
+Sehajpreet Singh
 
 ---
 
