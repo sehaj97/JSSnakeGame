@@ -1,6 +1,6 @@
 # Snake Game
 
-A classic Snake game implemented in JavaScript with HTML Canvas for rendering. Play the game directly in your browser!
+A classic Snake game implemented in JavaScript with HTML Canvas for rendering. Play the game directly i n your browser!
 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/f22c3cb0-09e6-4c96-a0f1-c47033f020f7" />
 
